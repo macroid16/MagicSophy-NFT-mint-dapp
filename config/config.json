@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa921063bdd046259b0b0bf181c676ba9f8dc30f8",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0xa921063bdd046259b0b0bf181c676ba9f8dc30f8",
+  "NETWORK": {
+    "NAME": "Binance",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "MagicSophy",
+  "SYMBOL": "MGC",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 39000000000000000,
+  "DISPLAY_COST": 0.039,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/magic-sophy-v2",
+  "SHOW_BACKGROUND": true
+}
